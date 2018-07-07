@@ -4,6 +4,4 @@ using UnityEngine;
 
 public class #SCRIPTNAME# : ScriptableObject {
 
-    // this is a template for a Scriptable Object file!
-
 }
