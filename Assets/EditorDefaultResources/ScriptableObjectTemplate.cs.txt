@@ -1,0 +1,9 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : ScriptableObject {
+
+    // this is a template for a Scriptable Object file!
+
+}
