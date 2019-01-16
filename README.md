@@ -1,3 +1,13 @@
+# Update 16/01/19
+
+This is utterly redundant, due to an undocumented feature in Unity.
+If you put script templates in Assets/ScriptTemplates, Unity will use those instead of the built-in ones. So the best way to do this is to:
+- copy the files from UnityInstall/Editor/Data/Resources/ScriptTemplates to Project/Assets/ScriptTemplates
+- edit as you see fit
+- reopen project.
+
+Thanks to [jura_z](https://forum.unity.com/threads/how-to-create-your-own-c-script-template.459977/#post-3898429) from Unity for pointing this out.
+
 # Unity-Script-Templates
 Custom templates for creating new scripts in Unity.
 
